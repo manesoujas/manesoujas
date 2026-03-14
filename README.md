@@ -11,24 +11,20 @@ ________________________________________
 ________________________________________
 🛠 Skills
 Programming Languages
-•	C++
-•	Java
-•	Python
-•	JavaScript
+
+C++ • Java • Python • JavaScript
+
 Web Development
-•	HTML
-•	CSS
-•	Bootstrap
-•	Tailwind
-•	React (Learning)
+
+HTML • CSS • Bootstrap • Tailwind • React (Learning)
+
 Database
-•	SQL
-•	MongoDB (Learning)
-Other Skills
-•	Computer Hardware
-•	PC Building
-•	Laptop Repair
-•	Networking Basics
+
+SQL • MongoDB (Learning)
+
+Hardware & Systems
+
+Computer Hardware • PC Building • Laptop Repair • Networking Basics
 ________________________________________
 📚 Current Learning
 •	Java + DSA
